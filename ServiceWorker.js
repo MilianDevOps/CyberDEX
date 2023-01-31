@@ -1,9 +1,9 @@
 const cacheName = "Sample Inc.-Canto CyberDEX-1.0";
 const contentToCache = [
-    "Build/Canto.loader.js",
-    "Build/Canto.framework.js",
-    "Build/Canto.data",
-    "Build/Canto.wasm",
+    "Build/CyberDEX.loader.js",
+    "Build/CyberDEX.framework.js",
+    "Build/CyberDEX.data",
+    "Build/CyberDEX.wasm",
     "TemplateData/style.css"
 
 ];
