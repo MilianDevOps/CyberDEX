@@ -1,4 +1,4 @@
-const cacheName = "Sample Inc.-sample-1.0";
+const cacheName = "Sample Inc.-Canto CyberDEX-1.0";
 const contentToCache = [
     "Build/Canto.loader.js",
     "Build/Canto.framework.js",
